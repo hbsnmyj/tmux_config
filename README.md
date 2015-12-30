@@ -1,9 +1,3 @@
-## Screenshot
+My tmux profile. very simple & naive.
 
-![Screenshot](http://dl.dropbox.com/u/1658623/tmuxrc.png)
-
-## Installation
-
-``` bash
-$ curl -Lo- https://raw.github.com/yesmeck/tmuxrc/master/bootstrap.sh | bash
-```
+The framework is borrowed from https://github.com/yesmeck/tmuxrc
